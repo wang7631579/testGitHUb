@@ -1,0 +1,18 @@
+参照网址：
+https://blog.csdn.net/weixin_39066895/article/details/148011343
+https://blog.csdn.net/weixin_56507469/article/details/148140748
+https://blog.csdn.net/air__Heaven/article/details/146241903
+https://blog.csdn.net/Lqcsj/article/details/144378888
+
+
+主要是  148011343  这个完事后   然后 148140748
+
+
+1. 根据148011343  中的内容完成后  需要本地 fastparquet-2024.11.0-cp310-cp310-win_amd64.whl  pyicu-2.15-cp310-cp310-win_amd64.whl
+2. 148140748  解决找不到api 
+3.pip install -e .
+
+少的
+
+ [plugin: ./node_modules/@umijs/plugins/dist/tailwindcss]
+
